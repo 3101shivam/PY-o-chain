@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myfandoproject",
+  "private_key_id": "b11c2b6cb85b82bc08be375ac9a3f2809fd2e9dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKUGlaJfUt+r2J\nX6d4Erq3YIfk9wGT1es9JWoiCvVj4akUtr/kZRO6fnhP3Re1wF0PXVxknplQwrgW\nKYP2c1I4r9CGfn2rkcCTWRlpxkH78kS1gQi7Tgw0CpWv0K/C7wCoM+CxSmhoKutR\n/UK9S5Xf4XRP7qASeo05lEZrXgvtTsfO+AhK3AOSyzQ9bNDl5FYBWd12Zw5aPLbi\nDdFVi22XrCdLfyxClsUaLJLBTyz4fUMxnytwPP3S2Tfde22bkTRPdPb8uo/49zJy\n3LoylgyzVh58WQsj6Bu2PjqPSBP0Q3PIwRLex880v6MB+0XvyT1U8jEii0GvCdwd\n8tlGFrI1AgMBAAECggEAL+Ez7afKDKWosZg3tA0Kr1djEeb7MpeP4pq2MXRSet7u\n+v39D/pz3tELfCsg71ylKXu43/9A3YIXuvb8ShkkvlGtkgbhivclkjml8AiBmTTO\n2f29qUZhUPeoUUGcNxAFIcmVRaAMcYqmwnKjltUKlT9wHXKl43mpbpUOzV4miHSO\nyuUVmy8lGksSIHoeceeskiPUl6RTpRfEYtjHHr/0mSG4/DbjlieGsDHMnOtmnBqb\n7OjN+u8AsrIH6K28KE2EP+GS55urIFwOEMAia3LlzX3ZPa9Ib13pf8uUHnO7h5Q4\nV7U+lAw01g7v2o4si8fZqt59/PoRZRxlYvxkMGJAAQKBgQDoVh/UGhyibqR3a36B\nz3tlsxudGOdPktVQoyurv1AGr9pN8/PaxwhKkS8+Qg+3gzlnHonSoxlH7LpGthiv\nq+5artVS+ZM8ypZW5DbemaiI5v4PsDZ6JLTxXwuQbDQtouSRGb49LgSewHvLwFuC\nvrwPohMoUTm4yLM2YaFfscMYAQKBgQDe635fbisnz3mv65OL7STtooN2nGcZClwe\nRYhKogg+6UzHpi2rYyShsNNkj8DNtFymgXXB2LXKRYskV5ZsXYj13JuAV0oB3+zA\nRuD2C8jAw1Z2EDpdhaXUx/IQRb3fmFC5noMtNtcMGs8dk/xn8zclAUUGL39yZlvB\ngg69iUK6NQKBgDNYDRKfbqKK1ve5HqzrQDbaXQjbnwqbxV5boOQElFfV9uVxOvun\nLnLkIM+eY8DHVCEww350IrsdWpET3uK7mSIbLvN2Sg6OKqkrJ+ELjg4rFgw7gd5+\nTCpnObQB5YoMTHywdrUofUbj/LerW83J/t9pjthDEwF+APTMoI/4RcgBAoGBAMq4\n4DjKyGYw0NoB4zE53P5abzFbdIqaGEHTO+mbRuJnadKaNigJRlPgqa1m6ZBoOGWX\nj85UVKX47luDZ6FuwlHMaIGjYAMqb3RAQO6gstVSDvvZMCrCkpdZqbHQqqZ/LtJO\n674fhBtW+glM/hpOXVTCvdGtOjqACWuF6f/FprANAoGBAL2Fc26tEu5J+dKC5xXL\n1bYK3l9SYLdEQVsuqnSEmn3Tm89ABuAbOvj6Haez9wdtkxzU51d6sGSuPF+DJzn9\nF3RibUZ/nxe1uPV+OuGDsj+aor4qTcReIMULjfagvMVMmrYpYFW6d7ocHvAuExiq\nnV/a98zhiCALdrxM4yqQsz+r\n-----END PRIVATE KEY-----\n",
+  "client_email": "myfandoproject@myfandoproject.iam.gserviceaccount.com",
+  "client_id": "116751029295068281227",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myfandoproject%40myfandoproject.iam.gserviceaccount.com"
+}
